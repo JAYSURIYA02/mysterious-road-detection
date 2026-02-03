@@ -1,0 +1,8 @@
+# dataset.yaml
+
+path: C:/Users/jaysu/OneDrive/Desktop/yol/dataset  # use forward slashes
+train: images/train
+val: images/val
+
+nc: 1
+names: ['lane']
