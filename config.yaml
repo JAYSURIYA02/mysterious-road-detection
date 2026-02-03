@@ -1,6 +1,6 @@
 # dataset.yaml
 
-path: C:/Users/jaysu/OneDrive/Desktop/yol/dataset  # use forward slashes
+path: C:/Users/jaysu/OneDrive/Desktop/mysterious_road_detector/dataset  # use forward slashes
 train: images/train
 val: images/val
 
